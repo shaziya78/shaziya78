@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Shaziya Shaikh (@shaziya78)
+- 👀 I’m interested in the MERN Stack and passionate about web development.
+- 🌱 I’m currently learning and enhancing my skills in the MERN Stack.
+- 💞️ I’m looking to collaborate on projects that involve the MERN Stack and offer opportunities to learn something new.
+- 📫 You can reach me at shaikhshaziya2828@gmail.com
+- 😄 Pronouns: I’m a Tech Enthusiast and Gym Freak.
+- ⚡ Fun fact: I’m great at multitasking—balancing both coding and fitness!
